@@ -1,0 +1,32 @@
+.section{
+    /* width:80%; */
+    height: 92vh;
+   background-color:lavenderblush;
+}
+
+.left-side{
+    width: 50%;
+    /* background-color: brown; */
+}
+
+.right-side{
+    width: 50%;
+    /* background-color: blue; */
+}
+
+
+.image-content{
+    width:450px;
+    height:92vh;
+}
+
+.image-content img{
+    width:100%;
+}
+
+.content p{
+    text-align: justify;
+}
+
+
+

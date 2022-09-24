@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+   
+    
+}
+
+body{
+    height: 2000px;
+}
+
+.hero{
+    height:86vh;
+    
+}
+
+.left-side{
+    width:55%;
+    background-color:rgb(247, 243, 243);
+}
+
+.title-left{
+    margin-top: 80px !important;
+}
+.media-sosial{
+    width:150px;
+    
+}
+
+.btn-cc:hover{
+    background-color:aqua;
+    color: white;
+}
+
+.media-sosial img {
+    width:100%;
+    
+}
+
+.text-dark{
+    text-decoration: none;
+}
+
+button{
+    border: none;
+}
+
+.right-side{
+    width:30%;
+    background-color:rgb(247, 243, 243);
+}
+
+.right-side .card{
+    width:320px;
+    height: 70vh;
+    background-color: aquamarine;
+    border: none;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+
+.card img{
+    width: 100%;
+    
+
+}
+
+/* My Project */
+
+.my-project{
+    margin-top: 100px;
+    height:130vh;
+}
+
+.card{
+    background-color: aquamarine;
+   
+}
+
+.satu{
+    width:18rem;
+    
+}
+.satu img{
+    width:100%;
+}
+
+.dua{
+    width:18rem;
+   
+   
+}
+.dua img{
+    width:100%;
+}
+
+.tiga{
+    width:18rem;
+   
+}
+.tiga img{
+    width:100%;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ a{
+    color: black;
+    text-decoration: none;
+}
+
+btn{
+    color: black;
+}
+

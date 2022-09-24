@@ -1,0 +1,53 @@
+
+body{
+    background-color: rgb(202, 198, 198);
+}
+
+.btn-orange{
+    background-color: orangered;
+    
+}
+
+.navbar{
+    height: 8vh;
+
+}
+
+.nav-link-active{
+    color:orangered !important;
+}
+
+
+
+/* Styling Form */
+
+.heading-form h1{
+    color:orangered;
+}
+.form-container{
+    height: 92vh;
+    
+}
+
+.form-container form{
+ 
+   width:380px;
+  
+    
+}
+
+.button-form{
+    margin-top: 20px;
+}
+
+/* Styling add project */
+
+.add-container{
+   height:92vh;
+    
+}
+
+.add-container form{
+    width:500px;
+     
+ }
